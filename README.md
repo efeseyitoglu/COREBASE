@@ -1,5 +1,10 @@
 
-This repository contains the implementation of our Signature scheme COREBASE. Please see our paper titled "Compact and Ressilient Cryptographic Tools for Digital Forensics". We leverage FourQLib and Blake2b libraries in this implementation.
+This repository contains the implementation of our Signature scheme COREBASE. Please see our paper titled "Compact and Ressilient Cryptographic Tools for Digital Forensics". 
+
+Paper Link: https://ieeexplore.ieee.org/document/9162236
+
+
+We leverage FourQLib and Blake2b libraries in this implementation.
 
 Steps to complie and run:
 
