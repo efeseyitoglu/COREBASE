@@ -4,7 +4,7 @@ This repository contains the implementation of our Signature scheme COREBASE. Pl
 Paper Link: https://ieeexplore.ieee.org/document/9162236
 
 
-We leverage FourQLib and Blake2b libraries in this implementation.
+We leveraged FourQLib and Blake2b libraries in this implementation.
 
 Steps to complie and run:
 
